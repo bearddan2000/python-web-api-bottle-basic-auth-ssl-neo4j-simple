@@ -1,0 +1,9 @@
+bottle
+py2neo
+
+# for ssl
+cheroot
+
+# for logins
+beaker
+requests
